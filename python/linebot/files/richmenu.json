@@ -1,0 +1,21 @@
+{
+    "size": {"width": 2500, "height": 843},
+    "selected": "true",
+    "name": "功能選單",
+    "chatBarText": "查看更多功能",
+    "areas": [
+    {
+      "bounds": { "x": 0, "y": 0, "width": 839, "height": 843 },
+      "action": { "type": "postback", "label": "video", "data": "video", "displayText": "影片推薦" }
+    },
+    {
+      "bounds": { "x": 838, "y": 0, "width": 829, "height": 843 },
+      "action": { "type": "postback", "label": "emotion", "data": "emotion", "displayText": "我的心情" }
+    },
+    {
+      "bounds": { "x": 1662, "y": 0, "width": 838, "height": 843 },
+      "action": { "type": "postback", "label": "meme", "data": "meme", "displayText": "梗圖推薦" }
+    }
+    ]
+  }
+  
