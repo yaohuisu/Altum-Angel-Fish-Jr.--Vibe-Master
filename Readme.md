@@ -1,5 +1,4 @@
 # Altum Angel Fish Jr. - Vibe Master
-[TOC]
 # Introduction
 This work is based on the WE-I Plus platform and use the emotion recognition AI model to identify the user’s emotions, and use the results to give feedback to the user, such as: adjusting the ambient lights, playing music that suits the current vibe, and LINE Bot sending caring messages to help user to achieve a better mental state.
 # HW & SW Setup
